@@ -1,0 +1,17 @@
+.blogs{
+    margin-top: 20px;
+  }
+  
+.blogitem{
+    padding: 20px 0px;
+}
+
+.uppercontainer{
+    display: flex;
+    flex-direction: column;
+    padding: 0 350px;
+  }
+
+.para{
+  
+}
